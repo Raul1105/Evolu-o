@@ -1,0 +1,151 @@
+body {
+    margin:0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#menu {
+    background: url(./ImagensNoticias/fundo.png);
+    height: 233px;
+    margin:0;
+    padding: 0;
+}
+
+
+
+#principal {
+    background: #c01010e5;
+    height: 60px;
+    width: 700px;
+    margin-left: 250px;
+    position: relative;
+    top: 110px;
+    border: 2px solid #c51010e5;
+    z-index: 1;
+}
+
+#atual {
+    color: #fff;
+    background-color: rgb(212, 26, 42);
+    font-size: 15px;
+    font-weight: 900;
+    padding: 22px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    position: relative;
+    top: 20px;
+    text-decoration: none;
+}
+
+.links {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900;
+    background: url(./ImagensNoticias/divisor.png) no-repeat right;
+    padding: 18px;
+    position: relative;
+    top: 20px;
+    text-decoration: none;
+}
+
+#ulink {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 18px;
+    position: relative;
+    top: 20px;
+    text-decoration: none;
+}
+
+#topo {
+    margin-left: 890px;
+    bottom: 130px;
+    position: relative;
+    height: 180px;
+}
+
+#logo {
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+}
+
+#container {
+    padding-left: 10px;
+    padding-top: 8px;
+    margin-left: 250px;
+    margin-top: 10px;
+    height: 400px;
+    width: 820px;
+}
+
+#entrevistas {
+    background: url(./ImagensNoticias/fundo-caixa.png);
+    float: left;
+    margin-right: 20px;
+    width: 190px;
+    padding: 4px 8px;
+}
+
+.titulo {
+    background: rgb(3, 45, 100);
+    font-size: 22px;
+    padding: 5px;
+    padding-left: 6px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.menul {
+    background: #fff;
+    margin-top: 10px;
+}
+
+.itemm {
+    font-size: 18px;
+    padding: 10px;
+    display: block;
+}
+
+.conteudo {
+    float: left;
+    background: url(./ImagensNoticias/fundo-caixa.png);
+    width: 259px;
+    height: 325px;
+    margin-right: 22px;
+    padding: 4px 8px;
+}
+
+.materia {
+    margin-top: 12px;
+    padding-top: 5px;
+    background-color: #fff;
+}
+
+.sub {
+    color: #000;
+    font-weight: 700;
+    background: rgb(231, 7, 7);
+    margin-left: 5px;
+    width: 230px;
+    font-size: 16px;    
+    padding-left: 5px;
+}
+
+#imagem {
+    margin-left: 5px;
+    margin-top: 3px;
+    width: 253px;
+}
+
+.legenda {
+    font-size: 20px;
+    margin-left: 2px;
+}
+
+#leia {
+    color: rgb(155, 4, 4);
+    padding-bottom: 10px;
+}
+
