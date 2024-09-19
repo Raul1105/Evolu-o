@@ -149,3 +149,38 @@ body {
     padding-bottom: 10px;
 }
 
+#news {
+    background: url(ImagensNoticias/fundo-caixa.png); 
+    width: 190px;
+    float: left;
+    clear: both;
+    margin-top: 12px;
+    padding: 4px 8px;
+}
+
+label {
+    display: block;
+    margin-top: 6px;
+    font-size: 20px;
+    padding: 5px 5px 0px 5px;
+}
+
+input {
+    width: 150px;
+    font-size: 16px;
+    padding-left: 5px;
+    margin-left: 5px
+}
+
+.campo {
+    padding: 4px;
+    
+}
+
+.botao {
+    background: rgb(182, 20, 20);
+    color: #fff;
+    text-align: start;
+    padding: 3px;
+    padding-left: 5px
+}
