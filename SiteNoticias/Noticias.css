@@ -184,3 +184,44 @@ input {
     padding: 3px;
     padding-left: 5px
 }
+
+.noticias {
+    float: left;
+    background: url(ImagensNoticias/fundo-caixa.png);
+    width: 259px;
+    position: relative;
+    margin-left: 20px;
+    bottom: 35px;
+    padding: 4px 8px;
+    
+}
+
+.outrasn {
+    background: #fff;
+    width: 259px;
+    height: 80px;
+    margin-top:10px;
+}
+
+.mundo {
+    width: 80px;
+    position: relative;
+    left: 15px;
+    top: 10px  
+}
+
+.newt {
+    color: cornflowerblue;
+    position: relative;
+    bottom: 32px;
+    left: 20px;
+    font-size: 14px;
+}
+
+.newc {
+    position: relative;
+    left: 100px;
+    width: 190px;
+    font-size: 15px;
+    bottom: 28px;
+}
