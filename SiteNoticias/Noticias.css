@@ -126,7 +126,7 @@ body {
 .sub {
     color: #000;
     font-weight: 700;
-    background: rgb(231, 7, 7);
+    background: rgba(164, 23, 23, 0.847);
     margin-left: 5px;
     width: 230px;
     font-size: 16px;    
@@ -217,4 +217,16 @@ input {
     width: 225px;
     position: relative;
     left: 12px;
+}
+
+#rodape {
+    background: url(./ImagensNoticias/fundo.png);
+    clear: both;
+    padding: 30px;
+    padding-left: 260px;
+}
+
+#lrodape {
+    color: #fff;
+    font-size: 17px;
 }
