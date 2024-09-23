@@ -11,12 +11,14 @@ body {
     padding: 0;
 }
 
-
+#principal a:hover {
+    color: #000;
+}
 
 #principal {
     background: #c01010e5;
     height: 60px;
-    width: 700px;
+    width: 660px;
     margin-left: 250px;
     position: relative;
     top: 110px;
@@ -106,6 +108,14 @@ body {
     font-size: 18px;
     padding: 10px;
     display: block;
+    text-decoration: none;
+    color: #000;
+}
+
+.menul a:hover {
+    background: url(ImagensNoticias/marcador.png) no-repeat center left;
+    padding-left: 22px;
+    color: gray;
 }
 
 .conteudo {
@@ -162,7 +172,7 @@ label {
     display: block;
     margin-top: 6px;
     font-size: 20px;
-    padding: 5px 5px 0px 5px;
+    padding: 5px 5px 0 5px;
 }
 
 input {
