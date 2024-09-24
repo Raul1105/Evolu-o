@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#container {
+    margin: 15px 50px 0 50px;
+}
+
+.pimg {
+    position: absolute;
+}
+
+.cimg {
+    position: absolute;
+    left: 770px;
+    width: 503px;
+    height: 251px;
+}
+
+.limg {
+    position: absolute;
+    top: 35px;
+    left: 68px;
+}
+
+.dimg {
+    position: absolute;
+    top: 74px;
+    left: 1025px;
+    width: 235px;
+}
+
+#links {
+    position: absolute;
+    left: 816px;
+    top: 25px;
+    font-size: 18px;
+    list-style: none;
+}
+
+#links li {
+    margin: 10px
+}
