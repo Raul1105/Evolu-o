@@ -9,13 +9,16 @@ body {
 }
 
 .pimg {
-    position: absolute;
+    position: relative;
+    width: 63.03317535545024%;
+    height: 250px;
+    
 }
 
 .cimg {
     position: absolute;
     left: 770px;
-    width: 503px;
+    width: 39.73143759873618%;
     height: 251px;
 }
 
