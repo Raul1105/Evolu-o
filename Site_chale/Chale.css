@@ -1,48 +1,24 @@
-body {
-    margin: 0;
-    padding: 0;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
 #container {
-    margin: 15px 50px 0 50px;
+    background-color: red;
+    margin: 0 auto;
+    width: 95%;
+    height: 200px;
+    min-width: 650px;
 }
 
-.pimg {
+.pim {
+    float: left;
+    width: 70%;
+    height: 260px;
+    min-width: 400px;
+}
+
+.sim {
     position: relative;
-    width: 63.03317535545024%;
-    height: 250px;
-    
-}
-
-.cimg {
-    position: absolute;
-    left: 770px;
-    width: 39.73143759873618%;
-    height: 251px;
-}
-
-.limg {
-    position: absolute;
-    top: 35px;
-    left: 68px;
-}
-
-.dimg {
-    position: absolute;
-    top: 74px;
-    left: 1025px;
-    width: 235px;
-}
-
-#links {
-    position: absolute;
-    left: 816px;
-    top: 25px;
-    font-size: 18px;
-    list-style: none;
-}
-
-#links li {
-    margin: 10px
+    float: right;
+    z-index: 1;
+    max-width: 39%;
+    height: 260px;
+    bottom: 260px;
+    min-width: 250px;
 }
