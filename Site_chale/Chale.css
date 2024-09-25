@@ -3,7 +3,7 @@
     margin: 0 auto;
     width: 95%;
     height: 200px;
-    min-width: 650px;
+    min-width: 850px;
 }
 
 .pim {
@@ -21,4 +21,14 @@
     height: 260px;
     bottom: 260px;
     min-width: 250px;
+}
+
+.lim {
+    position: relative;
+    float: left;
+    width: 11%;
+    min-width:60px;
+    min-height: 60px;
+    bottom: 240px;
+    left: 23px;
 }
